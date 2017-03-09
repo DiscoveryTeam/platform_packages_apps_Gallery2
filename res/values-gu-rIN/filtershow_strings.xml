@@ -28,7 +28,7 @@
     <string name="custom_border" msgid="8679893731790931871">"કસ્ટમ"</string>
     <string name="filtershow_undo" msgid="6781743189243585101">"પૂર્વવત્ કરો"</string>
     <string name="filtershow_redo" msgid="4219489910543059747">"ફરી કરો"</string>
-    <string name="show_imagestate_panel" msgid="281932769701043015">"લાગુ પ્રભાવો દર્શાવો"</string>
+    <string name="show_imagestate_panel" msgid="281932769701043015">"લાગુ પ્રભાવો બતાવો"</string>
     <string name="hide_imagestate_panel" msgid="7207643485811695257">"લાગુ પ્રભાવો છુપાવો"</string>
     <string name="export_image" msgid="3202835713172222134">"નિકાસ કરો"</string>
     <string name="print_image" msgid="1942989216591621413">"છાપો"</string>
@@ -126,7 +126,7 @@
     <string name="color_pick_select" msgid="734312818059057394">"કસ્ટમ રંગ પસંદ કરો"</string>
     <string name="color_pick_title" msgid="6195567431995308876">"રંગ પસંદ કરો"</string>
     <string name="draw_size_title" msgid="3121649039610273977">"કદ પસંદ કરો"</string>
-    <string name="draw_size_accept" msgid="6781529716526190028">"ઑકે"</string>
+    <string name="draw_size_accept" msgid="6781529716526190028">"ઓકે"</string>
     <string name="state_panel_original" msgid="9069584409934164419">"મૂળભૂત"</string>
     <string name="state_panel_result" msgid="318640531123298676">"પરિણામ"</string>
     <string name="filtershow_notification_label" msgid="1653168445525855247">"ચિત્ર સાચવી રહ્યું છે"</string>
