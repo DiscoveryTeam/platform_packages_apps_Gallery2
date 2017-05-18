@@ -217,6 +217,7 @@ public class MovieActivity extends Activity {
 
         // Determine available/supported effects
         final Descriptor[] effects = AudioEffect.queryEffects();
+	if(effects!=null){
         for (final Descriptor effect : effects) {
             if (effect.type.equals(AudioEffect.EFFECT_TYPE_VIRTUALIZER)) {
                 mVirtualizerSupported = true;
@@ -224,6 +225,7 @@ public class MovieActivity extends Activity {
                 mBassBoostSupported = true;
             }
         }
+	}	
 
         mPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
             @Override
